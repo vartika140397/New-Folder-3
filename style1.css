@@ -1,0 +1,59 @@
+body {
+    background-color: #8CC461;
+}
+.pic1 {
+    margin-left: 430px;
+    margin-top: 51px;
+}
+.pic2 {
+    margin-top: -161px;
+    margin-left: 594px;
+}
+.victory {
+    color: white;
+    margin-left: 100px;
+    margin-top: -42px;
+    word-spacing: 10px;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: bolder;
+    line-height: 100px;
+    letter-spacing: 5px;
+    text-align: center;
+
+}
+p {
+    margin-top: -67px;
+}
+input {
+    margin: 10px;
+    padding:15px;
+    font-size: 30px;
+    color: black;
+    width:250px;
+    height: 30px;
+    margin-left: 550px;
+    margin-top: -51px;
+    border-radius: 10px;
+    font-size: 30px;
+    
+    text-align: center;
+}
+.btn {
+    width:100%;
+    display:flex;
+    justify-content: flex-end;
+    padding: 20px;
+
+}
+.btn-rule {
+    padding:8px;
+    border:2px solid white;
+    outline:none;
+    background-color: transparent;
+    font-size: 16px;
+    letter-spacing: 3px;
+    border-radius: 5px;
+    color: white;
+    cursor:pointer;
+}
